@@ -24,11 +24,10 @@ maxMod = 4
 
   # Define stats.
   [character.stats]
-    danger = "Danger"
-    freak = "Freak"
-    savior = "Savior"
-    superior = "Superior"
-    mundane = "Mundane"
+    hot= "Hot"
+    cold = "cold"
+    volatile="Volatile
+    dark="Dark"
 
   # Define attributes.
   [character.attributesTop]
